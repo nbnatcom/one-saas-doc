@@ -24,6 +24,10 @@
   * [产品介绍](zh-cn/createWxappPayBase.md)
   * [入驻申请](zh-cn/createWxappPaySub.md)
 
+* 六、拉入客服
+  * [申请帐号](zh-cn/createYzf.md)
+  * [接入小程序](zh-cn/useYzf.md)
+
 * 常用问题
 
   * [FAQ]()
